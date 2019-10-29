@@ -1,4 +1,4 @@
-# Py-Foundation
+# IYKRA Bootcamp
 It contains every thing related to Home Credit Data Science Bootcamp 2019 in IYKRA.
 Content:
 - Foundation of Python Programming.ipynb
